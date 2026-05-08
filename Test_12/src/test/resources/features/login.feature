@@ -1,3 +1,5 @@
-Given User opens browser
-When User enters username and password
-Then User should login successfully
+Feature: Open Google Website
+
+  Scenario: Open Google
+
+    Given User opens google website

@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-06T17:26:27 IST" name="Surefire suite" finished-at="2026-05-06T17:26:27 IST" duration-ms="75">
+  <suite started-at="2026-05-08T11:16:13 IST" name="Surefire suite" finished-at="2026-05-08T11:16:13 IST" duration-ms="118">
     <groups>
     </groups>
-    <test started-at="2026-05-06T17:26:27 IST" name="Surefire test" finished-at="2026-05-06T17:26:27 IST" duration-ms="75">
+    <test started-at="2026-05-08T11:16:13 IST" name="Surefire test" finished-at="2026-05-08T11:16:13 IST" duration-ms="118">
       <class name="com.test.SampleTest">
-        <test-method signature="testOne()[pri:0, instance:com.test.SampleTest@3c72f59f]" started-at="2026-05-06T17:26:27 IST" name="testOne" finished-at="2026-05-06T17:26:27 IST" duration-ms="1" status="PASS">
+        <test-method signature="testOne()[pri:0, instance:com.test.SampleTest@4facf68f]" started-at="2026-05-08T11:16:13 IST" name="testOne" finished-at="2026-05-08T11:16:13 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOne -->
       </class> <!-- com.test.SampleTest -->
       <class name="com.test.Sample2Test">
-        <test-method signature="testOne()[pri:0, instance:com.test.Sample2Test@5db250b4]" started-at="2026-05-06T17:26:27 IST" name="testOne" finished-at="2026-05-06T17:26:27 IST" duration-ms="9" status="PASS">
+        <test-method signature="testOne()[pri:0, instance:com.test.Sample2Test@50a638b5]" started-at="2026-05-08T11:16:13 IST" name="testOne" finished-at="2026-05-08T11:16:13 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOne -->
